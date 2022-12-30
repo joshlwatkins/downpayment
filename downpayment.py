@@ -1,3 +1,5 @@
+#Program that calculates a down payment for good or bad credit
+
 price = 1000000
 has_good_credit = True
 
